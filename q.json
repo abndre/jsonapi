@@ -1,4 +1,3 @@
-
 exercicio = {
         "01" : "Pedro estuda, {} não aprende.",
         "02" : "Vendeu {} livros neste mês que no anterior.",
@@ -36,7 +35,6 @@ exercicio = {
         "34" : "A felicidade voa tão leve, {} tem a vida breve.",
         "35" : "Julia comprou {} um carro.",
 }
-
 gabarito = {
         "19": "mais",
         "09": "mas",
